@@ -84,7 +84,7 @@ def main():
             )
             labelme.utils.lblsave(out_png_file, lbl)
 
-            np.save(out_lbl_file, lbl)
+            #np.save(out_lbl_file, lbl)
 
             viz = labelme.utils.draw_label(
                 lbl, img, class_names, colormap=colormap)
