@@ -8,68 +8,28 @@
       "fill_color": null,
       "points": [
         [
-          156,
-          145
+          154,
+          144
         ],
         [
-          274,
+          271,
           132
         ],
         [
-          273,
-          220
-        ],
-        [
-          155,
-          250
-        ]
-      ],
-      "shape_type": "polygon"
-    },
-    {
-      "label": "leaf",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          158,
-          271
-        ],
-        [
-          274,
-          252
-        ],
-        [
-          278,
-          451
-        ],
-        [
-          169,
-          461
-        ]
-      ],
-      "shape_type": "polygon"
-    },
-    {
-      "label": "leaf",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
-          170,
-          470
-        ],
-        [
-          278,
-          465
-        ],
-        [
-          278,
+          279,
           499
         ],
         [
-          173,
+          176,
           499
+        ],
+        [
+          163,
+          399
+        ],
+        [
+          159,
+          245
         ]
       ],
       "shape_type": "polygon"

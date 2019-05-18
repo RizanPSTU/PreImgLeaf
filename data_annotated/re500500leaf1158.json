@@ -8,38 +8,6 @@
       "fill_color": null,
       "points": [
         [
-          228,
-          40
-        ],
-        [
-          181,
-          51
-        ],
-        [
-          183,
-          57
-        ],
-        [
-          208,
-          53
-        ],
-        [
-          225,
-          56
-        ],
-        [
-          229,
-          56
-        ]
-      ],
-      "shape_type": "polygon"
-    },
-    {
-      "label": "leaf",
-      "line_color": null,
-      "fill_color": null,
-      "points": [
-        [
           178,
           128
         ],
@@ -90,6 +58,34 @@
         [
           184,
           175
+        ]
+      ],
+      "shape_type": "polygon"
+    },
+    {
+      "label": "leaf",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          227,
+          40
+        ],
+        [
+          228,
+          56
+        ],
+        [
+          200,
+          55
+        ],
+        [
+          184,
+          56
+        ],
+        [
+          182,
+          50
         ]
       ],
       "shape_type": "polygon"

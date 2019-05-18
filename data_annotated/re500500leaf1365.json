@@ -37,6 +37,34 @@
         ]
       ],
       "shape_type": "polygon"
+    },
+    {
+      "label": "leaf",
+      "line_color": null,
+      "fill_color": null,
+      "points": [
+        [
+          320,
+          318
+        ],
+        [
+          301,
+          333
+        ],
+        [
+          302,
+          336
+        ],
+        [
+          317,
+          326
+        ],
+        [
+          326,
+          321
+        ]
+      ],
+      "shape_type": "polygon"
     }
   ],
   "lineColor": [

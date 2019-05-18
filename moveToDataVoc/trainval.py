@@ -4,12 +4,6 @@ import math
 with open("name.txt", "r") as f:
     data = f.read().split('\n')
 
-random.shuffle(data)
-random.shuffle(data)
-random.shuffle(data)
-
-#for i in data:
-#    print(i)
 
 x=len(data)
 
@@ -19,9 +13,12 @@ val = x - train
 print(train)
 print(val)
 
+val_data = data[:val]
 
-train_data = data[:train]
-val_data = data[val:]
+train_data = data[val:x-1]
+
+
+
 
 with open("train.txt", "w") as a:
        for filename in train_data:
